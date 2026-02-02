@@ -23,7 +23,7 @@ const reviewRouter = require("./routes/review.js");
 const userRouter = require("./routes/user.js")
 
 
-//3. connecting Database to Node/Express.
+//connecting Database to Node/Express.
 
 const dbUrl = process.env.ATLASDB_URL;
 
@@ -115,22 +115,27 @@ app.use("/listings/:id/reviews", reviewRouter);
 //user
 app.use("/", userRouter);
 
+//healt cheack
+app.get("/healthz", (req, res) => {
+    res.status(200).send("OK");
+});
 
-//custom error handler by middlewares 
+ 
 //Express Error 404 Error handling (very important)
 app.use((req, res, next) => {
     next(new ExpressError(404, "Page Not Found!"));
 });
 
-
+//error handler
 app.use((err, req, res, next) => {
     const { statusCode = 500, message = "Something went wrong!"} = err;
     res.status(statusCode).render("error.ejs", {err});
 });
 
 
-//1. for server start ->on port 8080
-app.listen(8080, () => {
-    console.log("server is listening to port 8080");
+//for server start ->on port 8080
+const port = process.env.PORT || 8080;
+app.listen(port, () => {
+    console.log(`server is listening to port ${port}`);
 });
 

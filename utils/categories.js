@@ -1,0 +1,21 @@
+module.exports = [
+  { name: "Trending", icon: "fa-fire" },
+  { name: "Rooms", icon: "fa-bed" },
+  { name: "Iconic Cities", icon: "fa-city" },
+  { name: "Amazing pools", icon: "fa-water-ladder" },
+  { name: "Arctic", icon: "fa-snowflake" },
+  { name: "Castles", icon: "fa-chess-rook" },
+  { name: "Camping", icon: "fa-campground" },
+  { name: "Beach", icon: "fa-umbrella-beach" },
+  { name: "Mountains", icon: "fa-mountain" },
+  { name: "Wellness", icon: "fa-spa" },
+  { name: "National parks", icon: "fa-tree" },
+  { name: "OMG!", icon: "fa-face-surprise" },
+  { name: "Vineyards", icon: "fa-wine-glass" },
+  { name: "Design", icon: "fa-pen-nib" },
+  { name: "Domes", icon: "fa-igloo" },
+  { name: "Cabins", icon: "fa-house-chimney" },
+  { name: "Lake front", icon: "fa-water" },
+  { name: "Pet friendly", icon: "fa-paw" },
+  { name: "Historical", icon: "fa-landmark" }
+];

